@@ -16,7 +16,7 @@ while playing:
             print("Correct!")
             playing = False
     except ValueError:
-        print("Please enter a valid number")
+        print("Please enter a valid number!")
 
 
 
